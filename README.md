@@ -22,3 +22,7 @@
 | 10     | 10     |
 
 # Veiksmi darbā!
+
+### Papildus (links uz GitHub)
+
+https://github.com/23DP1ALuck/matematiskais_tests_t0mmyq
