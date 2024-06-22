@@ -1,3 +1,4 @@
+print('This is a good game, but also this is test kinda')
 questions = ['Kvadrātsakne no 81 = ', '10 2. pakāpe ir = ', '101- 23 = ', '100 * 2 = ', '2x = 120 ; x = ',
              '3y = 60 ; y = ', '4x = 120 ; x = ', '100 : 4 = ', '20 * 4 = ', '22 - 10 = ']
 answers = [''] * 10
